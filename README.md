@@ -2,6 +2,9 @@
 
 School Project
 
+Note : the database that I used here is MS access so if you encounter any Problem with the project just create and connect your MS access to the project and create your 
+own database
+
 Log in Page
 ![image](https://user-images.githubusercontent.com/115217805/196248668-646eac42-6ff7-4446-bd6e-512039adf97a.png)
 ![image](https://user-images.githubusercontent.com/115217805/196248698-958dd12a-d9d3-4641-9d34-b56ddb909ffc.png)
